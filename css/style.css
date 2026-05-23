@@ -21,7 +21,6 @@
   --menu-text-weight: 500;
 }
 
-/* 1. Reset básico de margens e preenchimentos */
 *,
 *::before,
 *::after {
@@ -29,14 +28,10 @@
   margin: 0;
   padding: 0;
 }
-
-/* 2. Melhoria na legibilidade do texto */
 body {
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
 }
-
-/* 3. Ajuste para imagens e mídias */
 img,
 picture,
 video,
@@ -45,16 +40,12 @@ svg {
   display: block;
   max-width: 100%;
 }
-
-/* 4. Reset de campos de formulário */
 input,
 button,
 textarea,
 select {
   font: inherit;
 }
-
-/* 5. Evita que textos longos estourem o container */
 p,
 h1,
 h2,
