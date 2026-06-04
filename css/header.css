@@ -41,3 +41,7 @@ input[type="checkbox"]:checked ~ .navm {
   color: var(--text-secondary-color);
   text-decoration: none;
 }
+
+.list-links li {
+  margin: 16px 0;
+}
