@@ -18,7 +18,7 @@
 
   --title-weight: 700;
   --text-weight: 400;
-  --menu-text-weight: 500;
+  --menu-text-weight: normal;
 }
 
 *,
@@ -54,4 +54,8 @@ h4,
 h5,
 h6 {
   overflow-wrap: break-word;
+}
+
+body {
+  font-family: "Montserrat";
 }
