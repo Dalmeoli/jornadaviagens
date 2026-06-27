@@ -13,7 +13,8 @@
   display: block;
   background-color: transparent;
   position: static;
-  padding: 24px 16px;
+  padding: 0;
+  margin-bottom: 24px;
 }
 
 .card header p {
@@ -29,6 +30,6 @@
 
 .card header h3 span {
   font-size: 32px;
-  margin-top: 24px;
+  margin-top: 10px;
   display: inline-block;
 }
