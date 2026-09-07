@@ -27,6 +27,9 @@
   max-height: 80px;
 }
 
+.categories-cards .content-title {
+  margin-bottom: 0;
+}
 @media screen and (min-width: 768px) {
   .categories-cards {
     flex-direction: row;
