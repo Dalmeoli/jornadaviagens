@@ -60,6 +60,10 @@
     flex-direction: row;
     justify-content: space-between;
   }
+
+  .payments .content-container .image-gallery {
+    margin: 0;
+  }
 }
 
 .payments .content-container {
