@@ -124,7 +124,7 @@ section.hero {
 
   section {
     width: 648px;
-    margin: 0 auto 32px;
+    margin: 0 auto 88px;
   }
 
   .section-title {
@@ -146,5 +146,9 @@ section.hero {
 @media screen and (min-width: 1440px) {
   section {
     width: 1200px;
+  }
+
+  .section-title {
+    margin: 0 auto 64px;
   }
 }
