@@ -32,6 +32,9 @@
   font-size: 28px;
 }
 
+.payment .item h2 {
+  font-size: 40px;
+}
 @media screen and (min-width: 768px) {
   .destinations {
     width: 648px;
